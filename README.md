@@ -2,7 +2,7 @@
 
 ## DEMO
 
-[@HaxKVMArea_bot](https://t.me/HaxKVMArea_bot)
+~~[@HaxKVMArea_bot](https://t.me/HaxKVMArea_bot)~~ *已失效*
 
 ## 效果截图
 
@@ -32,5 +32,6 @@ python3 bot.py
 
 ![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
 
-## 交流群
-[Telegram](https://t.me/misakanetcn)
+## ~~交流群~~ 墓碑
+~~[Telegram] (https://t.me/misakanetcn)~~  
+[Telegram Channel](https://t.me/misakano)
